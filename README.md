@@ -1,2 +1,6 @@
 # World-Finch
-Minimal proof-of-concept World
+
+A Finch is a small non-Corvidae bird.
+
+The Finch world is a Minimal proof-of-concept for CORVID.
+
